@@ -19,3 +19,10 @@
 - I followed well explained written materials mainly blog and github, they are referenced in each file.
 - Also, added some remarks to their codes
 ------------------------------------------------------------------------------
+@ Style GAN
+- I am currently trying to implement the cartoon style GAN for fun.
+#### divide and conquer
+- 1. Neural Style (style transfer) (conquer)
+- 2. StyleGAN, FreezeD
+- 3. StyleGAN2, ADA
+- 4. Latent Space Exploration
