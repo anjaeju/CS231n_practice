@@ -23,6 +23,6 @@
 - I am currently trying to implement the cartoon style GAN for fun.
 #### divide and conquer
 - 1. Neural Style (style transfer) (conquered)
-- 2. StyleGAN (semi-conqured,,,can it be conquered ??)
-- 3. FreezeD 
-- 4. Latent Space Exploration
+- 2. StyleGAN (semi-conqured)
+- 3. Latent Space Exploration (concept comqured)
+- 4. FreezeD 
